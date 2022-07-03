@@ -58,7 +58,7 @@ AddEventHandler('playerDropped', function()
         end
     end
 end)
--- http://localhost:30120/np-playtime/playtime
+-- http://localhost:30120/np-playtime/playtime.json
 SetHttpHandler(function(req,res)
     if req.path == '/playtime.json' then
         res.send(LoadResourceFile(GetCurrentResourceName(), "./playtime.json"));
