@@ -1,5 +1,5 @@
 # np-playtime
-<b>A simple FiveM script that tracks the playtime of each player and saves it in config. (Standalone)</b>
+<b>A simple FiveM script that tracks the playtime of each player and saves it in file. (Standalone)</b>
 
 I'll appreciate it if you will give me a star in this repo. ⭐⭐⭐
 
